@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background_light">#D82314</color>
+    <color name="background_dark">#A8F207</color>
+    <color name="name">#0D42FC</color>
+    <color name="surname">#0D42FC</color>
+    <color name="marks">#0D42FC</color>
+    <color name="id">#0D42FC</color>
+    <color name="t_name">#F3F5FB</color>
+    <color name="t_surname">#F3F5FB</color>
+    <color name="t_marks">#F3F5FB</color>
+    <color name="t_id">#F3F5FB</color>
+</resources>

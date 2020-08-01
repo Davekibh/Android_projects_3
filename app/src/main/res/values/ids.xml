@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextPersonMarks" type="id" />
+    <item name="editTextTextPersonSurname" type="id" />
+    <item name="button_Add" type="id" />
+</resources>
