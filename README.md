@@ -1,4 +1,5 @@
-# Android_projects_3
+# Students-admission-app
+
 So,Basically this is my Third Android project which I have coded in the Android Studio.
 So this a Students Info page where you are asked to fill three inputs.
 1) Name 
